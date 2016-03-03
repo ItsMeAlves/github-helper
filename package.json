@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "github-helper@^0.1.3",
+      "/home/gabriel/Develop/projetos/mownbot-pm"
+    ]
+  ],
+  "_from": "github-helper@>=0.1.3 <0.2.0",
+  "_id": "github-helper@0.1.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/github-helper",
+  "_nodeVersion": "5.4.1",
+  "_npmUser": {
+    "email": "itsmealves@gmail.com",
+    "name": "itsmealves"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "github-helper",
+    "raw": "github-helper@^0.1.3",
+    "rawSpec": "^0.1.3",
+    "scope": null,
+    "spec": ">=0.1.3 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/github-helper/-/github-helper-0.1.7.tgz",
+  "_shasum": "e6e219ae16b645660403dc9bfae0746c5e244133",
+  "_shrinkwrap": null,
+  "_spec": "github-helper@^0.1.3",
+  "_where": "/home/gabriel/Develop/projetos/mownbot-pm",
+  "author": {
+    "name": "Gabriel Alves"
+  },
+  "bugs": {
+    "url": "https://github.com/itsmealves/github-helper/issues"
+  },
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "description": "Helper for accessing github repositories",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e6e219ae16b645660403dc9bfae0746c5e244133",
+    "tarball": "http://registry.npmjs.org/github-helper/-/github-helper-0.1.7.tgz"
+  },
+  "gitHead": "6179ca9f5d25edf9601be0cd3daa59105414a6f7",
+  "homepage": "https://github.com/itsmealves/github-helper#readme",
+  "keywords": [
+    "git",
+    "github",
+    "manager",
+    "package"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "maintainers": [
+    {
+      "name": "itsmealves",
+      "email": "itsmealves@gmail.com"
+    }
+  ],
+  "name": "github-helper",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ItsMeAlves/github-helper.git"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "version": "0.1.7"
+}
